@@ -7,7 +7,7 @@
     {
         "nombre":"Pablo",
         "nota":9.5,
-        "ranking":50
+        "ranking":30
      },
      {
         "nombre":"Juan",
@@ -42,7 +42,7 @@
      {
         "nombre":"Juan carlos",
         "nota":1,
-        "ranking":501
+        "ranking":70
      }
     
 ]
